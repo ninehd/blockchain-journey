@@ -15,12 +15,10 @@ This repository serves as a learning hub and portfolio index, documenting my pro
 2. **[ECDSA](00-fundamentals/02-ecdsa.md)**
      - Private/public key generation, Signing and verifying transactions
 
-3. **Hash functions & integrity**
-    - SHA-256: cryptographic hash function used to secure blocks
-    - Block chaining: linking blocks securely using hashes
+3. **[Hash functions](00-fundamentals/03-hash_function.md)**
+    - SHA-256: cryptographic hash function
 
-4. **Data structures**
-    - Merkle trees: efficient structure for verifying multiple transactions in a block
+4. **Merkle trees**
 ---
 
 

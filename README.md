@@ -18,7 +18,8 @@ This repository serves as a learning hub and portfolio index, documenting my pro
 3. **[Hash functions](00-fundamentals/03-hash_function.md)**
     - SHA-256: cryptographic hash function
 
-4. **Merkle trees**
+4. **[Merkle trees](00-fundamentals/04-merkle_tree.md)**
+    - Structure of a Merkle tree, Merkle root, Merkle proof, Merkle tree verification
 ---
 
 

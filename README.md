@@ -1,7 +1,7 @@
 # 🚀 Blockchain Journey – Becoming a Smart Contract Engineer
 
 Welcome to my Web3 Journey repository!  
-I am a software engineer with 10+ years of experience (Java, Spring Boot, payment systems) and I’m transitioning into blockchain development and smart contracts.
+I am a software engineer with 10+ years of experience (Java, Spring Boot, payment systems) and I’m learning blockchain development and smart contracts.
 
 This repository serves as a learning hub and portfolio index, documenting my progress, projects, and articles as I build expertise in Solidity, Web3, and decentralized applications (DApps).
 
